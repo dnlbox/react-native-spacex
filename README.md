@@ -26,6 +26,8 @@ In order to not invest to much time on the code challenge, I decide to not go fu
 - Testing (Jest & Detox)
 - Better define types
 - Reusable styles
+- Wireless & LTE & No Connection
+- Loadings
 - ...
 
 Hope you understand and we can discuss those items during the chat.
