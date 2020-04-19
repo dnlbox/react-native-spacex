@@ -1,6 +1,12 @@
 # General
 
-This code is for use as a playgound to discuss approach in React-Native.
+The purpose of this application is a basic setup to support discussions of React-Native architecture, approaches, libraries, among others.
+
+# Setting up environment
+
+React-Native team and the community has a up-to-date walkthrough to install all dependencies that is necessary to develop and run a React-Native application. Also, the new React Native [site](https://reactnative.dev/) is getting better and better with detailed information of the API.
+
+For setup, see: https://reactnative.dev/docs/environment-setup
 
 # Run
 
@@ -29,5 +35,3 @@ In order to not invest to much time on the code challenge, I decide to not go fu
 - Wireless & LTE & No Connection
 - Loadings
 - ...
-
-Hope you understand and we can discuss those items during the chat.
